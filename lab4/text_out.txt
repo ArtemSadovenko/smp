@@ -1,0 +1,19 @@
+[31m
+
+
+XXX         XXX   XXX         XXX      XXXXXXXXX                        XXXXXXXXXXXX         XXXXXXXXX      XXXXXXXXXXXXXXX   XXXXXXXXXXXX            XXX               XXX
+XXX         XXX   XXX         XXX      XXXXXXXXX                        XXXXXXXXXXXX         XXXXXXXXX      XXXXXXXXXXXXXXX   XXXXXXXXXXXX            XXX               XXX
+XXX         XXX   XXX         XXX      XXXXXXXXX                        XXXXXXXXXXXX         XXXXXXXXX      XXXXXXXXXXXXXXX   XXXXXXXXXXXX            XXX               XXX
+XXX         XXX   XXX         XXX         XXX                           XXX         XXX         XXX                  XXX      XXX         XXX      XXX   XXX            XXX
+XXX         XXX   XXX         XXX         XXX                           XXX         XXX         XXX                  XXX      XXX         XXX      XXX   XXX            XXX
+XXX         XXX   XXX         XXX         XXX                           XXX         XXX         XXX                  XXX      XXX         XXX      XXX   XXX            XXX
+XXXXXXXXXXXXXXX   XXX         XXX         XXX                           XXXXXXXXXXXX            XXX               XXX         XXX         XXX      XXX   XXX            XXX
+XXXXXXXXXXXXXXX   XXX         XXX         XXX                           XXXXXXXXXXXX            XXX               XXX         XXX         XXX      XXX   XXX            XXX
+XXXXXXXXXXXXXXX   XXX         XXX         XXX                           XXXXXXXXXXXX            XXX               XXX         XXX         XXX      XXX   XXX            XXX
+XXX         XXX   XXX         XXX         XXX                           XXX                     XXX            XXX            XXX         XXX      XXXXXXXXX
+XXX         XXX   XXX         XXX         XXX                           XXX                     XXX            XXX            XXX         XXX      XXXXXXXXX
+XXX         XXX   XXX         XXX         XXX                           XXX                     XXX            XXX            XXX         XXX      XXXXXXXXX
+XXX         XXX      XXXXXXXXX         XXXXXXXXX                        XXX                  XXXXXXXXX      XXXXXXXXXXXXXXX   XXXXXXXXXXXX      XXX         XXX         XXX
+XXX         XXX      XXXXXXXXX         XXXXXXXXX                        XXX                  XXXXXXXXX      XXXXXXXXXXXXXXX   XXXXXXXXXXXX      XXX         XXX         XXX
+XXX         XXX      XXXXXXXXX         XXXXXXXXX                        XXX                  XXXXXXXXX      XXXXXXXXXXXXXXX   XXXXXXXXXXXX      XXX         XXX         XXX
+[0m
