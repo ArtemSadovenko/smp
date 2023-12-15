@@ -9,7 +9,6 @@ class Drawer:
 
     def read_data(self):
         self.data = pd.read_csv(self.file_path)
-
     def plot_pie_chart(self, country_column):
         if self.data is not None:
             country_count = self.data[country_column].value_counts()

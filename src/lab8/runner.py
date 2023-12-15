@@ -10,7 +10,7 @@ def main():
 # Побудова кругової діаграми кількості користувачів з кожного країни
     plot: plt = drawer.plot_pie_chart('Country')
     # plot.show()
-    drawer.save(plot)
+    # drawer.save(plot)
 
 # Побудова стовпчикової діаграми середнього віку користувачів з кожної країни
     drawer.plot_bar_chart('Country', 'Company')#.show()
